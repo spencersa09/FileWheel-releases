@@ -10,11 +10,13 @@ This repository only holds releases. Download the latest from
 
 ## Install
 
-You need macOS 14 or later. Works on Apple Silicon and Intel Macs.
+You need macOS 12 Monterey or later. Works on Apple Silicon and Intel Macs. (Remove BG needs macOS 14,
+and PDF Compress needs macOS 13.4.)
 
 1. Download `FileWheel-<version>.dmg`, open it and drag **FileWheel** into Applications.
    It's signed and notarized, so it opens without a warning.
 2. Open it. A wheel icon appears in the menu bar, and Settings opens to show how it works.
 3. If macOS asks whether FileWheel may access your Desktop, Documents or Downloads, click Allow.
 
-FileWheel checks for updates once a day and asks before installing them.
+FileWheel checks for updates once a day and asks before installing them. To send it to someone,
+use **Share FileWheel…** in the menu bar menu or in Settings.
